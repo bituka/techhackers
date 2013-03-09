@@ -1,0 +1,23 @@
+body{font:13px/20px normal Arial, Tahoma, Verdana, Helvetica, sans-serif;color:#cfc;width:960px;background:url(bgmindarker.gif) repeat;white-space:0;word-wrap:break-word;margin:40px}
+h1{font-size:23px;font-weight:bold;background:none;color:orange;border-bottom:3px solid  lightgreen ;margin:5px 0 15px;padding:10px} /* color:#0de13a; */
+/*h1.farkr{border-right:none;border-left:none;width:920px;background:url(http://jpalala.net/image/jpalala_new2.png) ;background-repeat:no-repeat;background-position:left center;text-indent:-9999px;}*/
+h2{ border-bottom: 3px #00f solid; background:#151A54; color:#0f0;padding-top: 10px;padding-left:5px;;padding-bottom:15px; width:900px;text-align:left}
+#body{background:url(bgbody.gif) repeat;margin:0 15px}
+p.footer{text-align:right;font-size:11px;border-top:1px solid #D0D0D0;line-height:32px;margin:20px 0 0;padding:0 10px}
+div#container{width:1024px;border:1px solid lightgreen;-webkit-box-shadow:0 0 8px lightgreen;background:url(http://jpalala.net/image/bluerstripes.png) repeat;margin:10px;padding:5px 15px 20px}
+div.post{border-radius:1px;border:1px lightgreen dotted;color:#fff;padding:15px;background: url(bgmindarker.gif) repeat;}
+nav{position:relative;margin-left: 10px;background:url(http://jpalala.net/image/bluerstripes.png);border: none;font-weight:bold;font-size:12pt;width:96%;padding-top:15px;
+	padding-bottom:15px;margin-bottom:25px;}
+nav ul  { list-style:none; padding-left:10px; }
+nav ul li {float:left;}
+nav a, nav a:Active, nav a:Link, nav a:Visited{
+	font-family:Verdana; font-weight:bold;font-size: 15px;color:white;text-decoration:none; 
+	border: 3px solid lightgreen; 
+	padding:10px 10px 10px 10px;}
+nav a:Hover{ color:white; background:green;color:lightlue;text-decoration:none;border: 5px solid #fff ;}
+a{color:orange;background:none;font-weight:normal;text-decoration:underline} /*color 1ae*/
+a:Hover{color:#c00;font-weight:bold;text-decoration:none;}
+a:Visited { color:yellow;}
+p,pre{white-space:0;word-wrap:break-word}
+code { color:lightgreen !important; background: black !important;margin-top:5px; margin-bottom:5px;padding: 5px 5px 5px 5px !important;}
+::selection,::moz-selection,::webkit-selection{background-color:#1ce;color:#00008B}

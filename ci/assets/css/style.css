@@ -1,0 +1,81 @@
+body {
+    background:#eee;
+    color:#103257;
+	font-family: 'Lucida Grande','Verdana','Tahoma','Arial';
+}
+
+div#canvas {
+  text-align: center;
+  margin: auto; 
+  position: relative; 
+  width: 800px;
+}
+
+div#header {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: normal;
+  margin: 0px;
+}
+
+div#intro div.profile {
+  float:right; 
+  width:240px;
+  padding-left: 10px;
+}
+
+div#intro div.welcome {
+  padding:0px 20px 0px 10px;
+}
+
+div#main h3 {
+  font-size: 24px;
+}
+
+div#main h4 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+div#main h5 {
+  font-weight: bold;
+}
+
+div#main .highlight {
+  color: white;
+}
+
+div.contact-container {
+  float:left; 
+  width:100%;
+}
+
+div.contact-container div.other-stuff {
+  float:right; 
+  width:390px;
+}
+
+div.contact-container div.contact {
+  width:400px;
+}
+
+div.contact-container div.contact p {
+  margin-left:10px; 
+  margin-right:10px;
+}
+
+div#nav a {
+	margin: 5px 5px 5px 5px;
+	color:#103257;
+	font-size:14px;
+	text-decoration:none;
+}
+div#nav a:Hover {
+	color:orange;
+	text-decoration:underline;
+}
+

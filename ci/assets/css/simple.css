@@ -1,0 +1,172 @@
+body {
+		
+		margin: 40px;
+
+		font: 13px/20px normal Tahoma,  Arial, Verdana, Helvetica, sans-serif;
+
+		color: darkblue;/* # 4F5155; */
+
+		width:960px;
+
+		background: url('bgmindarker.gif') repeat; 
+
+		white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+
+		white-space: -pre-wrap;      /* Opera 4-6 */
+
+		white-space: -o-pre-wrap;    /* Opera 7 */
+
+		word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+
+
+h1  {
+		
+		font-size: 23px;
+	
+		font-weight: bold;
+		
+		margin: 5px 0 15px 0;
+		
+		padding: 10px 10px 10px 10px;
+		
+		color:darkblue;
+		
+		width:450px;
+		
+		border-radius: 5px;
+		
+		color:darkblue;
+		
+		background:white;
+		
+		border: 1px solid darkblue; 
+		
+	}
+
+		/* logo here -> */
+
+		.fark  {
+
+			border-top:none;
+			
+			border-bottom:none;
+			
+			background: url('http://jpalala.net/image/jpalala_fauxgloss_logo.png') #B8ACAC;
+			
+			background-repeat: no-repeat;
+			
+			background-position:	left center;
+			
+			text-indent: -9999px;
+			
+			width:250px;
+			
+			border-radius:5px;
+			
+			-webkit-box-shadow: 0 0 8px #D0D0D0;
+		
+}
+
+
+	#body{
+		margin: 0 15px 0 15px;
+		background: url('bgbody.gif') repeat;
+	}
+	
+	p.footer{
+		text-align: right;
+		font-size: 11px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 32px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+	}
+	
+	#container{
+		margin: 10px;width:960px;
+		
+		padding: 5px 15px 20px 15px;
+		
+		border: 2px solid #fff;
+		
+		border-radius: 2px;
+		
+		border-radius:10px;
+		
+		-webkit-box-shadow: 0 0 8px #D0D0D0;
+		
+		background: url('bgcontent.gif') repeat;
+		
+		width:940px;
+	}
+	
+div.post {
+	
+	padding: 15px 15px 15px 15px;
+	
+	border-radius:8px;
+	
+	border: 1px #fff solid;    
+
+}
+
+p {
+	
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	
+}
+
+nav {
+
+	background:  -moz-linear-gradient(left,    #000000,#103259);
+	
+	background:  -webkit-gradient(linear, left center,  right center, from( #000000), to(#103259));
+
+	border-top: 1px dotted #fff; 
+
+	border-bottom: 1px dotted #fff; 
+
+	border-radius:10px;	
+	
+	font-weight:bold;
+	
+	font-size:12pt; 
+	
+	padding: 5px 15px 5px 15px;
+
+	width:900px;
+}
+
+/* for teh codes */
+pre {
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	
+	white-space: -pre-wrap;      /* Opera 4-6 */
+
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+/* Link styling */
+	a {
+		color: #fff;/*#003399 */
+		background-color: transparent;
+		font-weight: normal;
+  text-decoration:none;
+	}
+a:Hover { color:orange;}
+
+/* Highlight/selection colors */
+
+	::selection{ background-color: #11ccee; color: darkblue; }
+	::moz-selection{ background-color: #11ccee; color: darkblue; }
+	::webkit-selection{ background-color: #11ccee; color: darkblue; }

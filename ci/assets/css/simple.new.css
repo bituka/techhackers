@@ -1,0 +1,137 @@
+body {
+    background: url("http://jpalala.net/image/bluerstripes.png") repeat ;
+    color: #000;
+    font: 13px/20px normal Arial,Tahoma,Verdana,Helvetica,sans-serif;
+    margin: 40px;
+    width: 960px;
+    word-wrap: break-word;
+opacity: 0.9;
+}
+h1 {
+    background: white;
+
+    color: navyblue;
+    font-size: 23px;
+    font-weight: bold;
+text-decoration:underline;
+}
+h2 {
+    border-bottom: 3px solid #000;
+    color: darkorange;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-top: 10px;
+    text-align: left;
+    width: 900px;
+}
+#body {
+    background: grey;
+/*url("http://jpalala.net/image/bluerstripes.png") repeat scroll 0 0 transparent;*/
+    padding: 0 15px;
+color:#103257;
+}
+p.footer {
+    border-top: 1px solid #D0D0D0;
+    font-size: 11px;
+    line-height: 32px;
+    margin: 20px 0 0;
+    padding: 0 10px;
+    text-align: right;
+}
+div#container {
+    background: #fff;
+  /*  border: 4px lightblue groove;*/
+    margin: 10px;
+    padding: 5px 15px 20px;
+    width: 100%;
+min-height:800px;
+height:1024px;
+box-shadow:  10px 10px 5px #69BDE0;
+opacity: 0.9;
+}
+div.post {
+/*    background: url("bgmindarker.gif") repeat scroll 0 0 transparent;
+*/
+  background:white;
+  border: 1px dotted lightgreen;
+    border-radius: 1px 1px 1px 1px;
+    color: #blue;
+    padding: 15px;
+}
+nav {
+    font-size: 12pt;
+    font-weight: bold;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+    margin-top: 5%;
+    position: relative;
+    width: 96%;
+    padding-right: 25%;
+    padding-left: 28%;
+}
+nav ul {
+    list-style: none outside none;
+    padding-left: 10px;
+}
+nav ul li {
+    float: left;
+}
+nav a, nav a:active, nav a:link, nav a:visited {
+    border-top: 1px yellow solid;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px 10px 10px 10px;
+    text-decoration: none;
+    border-bottom: 5px orange solid;
+    color: #103257;
+    background: none;
+    border-right: none ;
+    margin-top: 20px;
+   margin-bottom: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+h4 { 
+color: #c00 !important;
+}
+
+nav a:hover {
+    background: grey;
+    border-bottom: 5px solid #c00;
+    color: yellow;
+}
+a {
+    background: none repeat scroll 0 0 transparent;
+    color: darkblue;
+    font-weight: normal;
+    text-decoration: none;
+}
+a:hover {
+    color: #CC0000;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:visited {
+    color: orange;
+}
+p, pre {
+    word-wrap: break-word;
+}
+code {
+    background: none repeat scroll 0 0 black !important;
+    color: lightgreen !important;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px !important;
+}
+h1 a {
+    background:  none;
+    color: orange;
+font-weight:bold;
+font-size:25px;
+    padding: 10px 20px 10px 10px;
+    margin-bottom: 25px;
+    position: relative;
+}
